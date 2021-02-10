@@ -2,7 +2,6 @@
 JTKJ Harjoitustyö 2020
 
 Joona Meriläinen
-2597045
 */
 
 /* C libraries */
